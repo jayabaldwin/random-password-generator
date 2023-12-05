@@ -7,19 +7,17 @@ var upperCase = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 var numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 var specialChar = ["!", "#", "$", "%", "&", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "^", "_", "`", "{", "}", "|", "~", "[", "]"];
 
+
+function generatePassword() {
+
+}
+
 // Conditions
 // Ranges between 8-128characters
 // Pop-up prompts asking to include lowercase, uppercase, numbers, specialcharacters
 // At least 1 prompt needs to be selected
-// Once answered all 4 prompts, password is generated in box or as a pop up
-
-
-
-
-
-
-
-
+// Once answered all 4 prompts, password is generated in box or as a window.prompt
+// Write function
 
 
 
