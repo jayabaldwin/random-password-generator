@@ -35,8 +35,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Overview
- Screenshot of Application (not designed by me)
-![Screenshot](/assets/images/screenshot.png)
+![The following animation displays the applications functionality:](./assets/images/screenshots/timed-code-quiz.gif)
 
 Personally, I found this challenge very difficult, however, throughout the process I've defintiely become more comfortable working with JavaScript and am looking forward to building on those skills.
 
